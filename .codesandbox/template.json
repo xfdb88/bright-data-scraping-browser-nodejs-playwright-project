@@ -1,0 +1,7 @@
+{
+    "title": "Bright Data Scraping Browser NodeJS Playwright project",
+    "description": "This is my template",
+    "iconUrl": "http://playwright.dev/img/playwright-logo.svg",
+    "tags": ["node", "javascript", "playwright", "bright data"],
+    "published": false
+  }
