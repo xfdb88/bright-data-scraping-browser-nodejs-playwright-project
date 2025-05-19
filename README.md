@@ -12,6 +12,10 @@ This project demonstrates how to use <a href="https://brightdata.com/products/sc
 3. Run `npm install` to install dependencies
 4. Run `node index.js` to start scraping
 
+## Demo
+https://github.com/user-attachments/assets/9178d94a-d5a3-46a9-b998-2328b1087c39
+
+
 
 ## Examples
 1. [Booking.com Hotel Scraping Demo](hotel-scraping/README.md)
